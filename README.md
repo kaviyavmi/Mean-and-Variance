@@ -1,3 +1,5 @@
+# DEVELOPED BY : V.M.KAVIYA
+# REGISTER NUMBER : 212224040154
 #  Mean and variance of a discrete  distribution
 
 
